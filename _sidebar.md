@@ -3,7 +3,7 @@
 * **[首页](/)**
 
 * **如何购买**
-  - [价格方案](Purchasing-Plans)
+  <!-- - [价格方案](Purchasing-Plans) -->
   - [购买方式](Purchasing-Gunbot)
   <!-- - [购买方式]() -->
 * **安装教程**

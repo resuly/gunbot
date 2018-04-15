@@ -2,7 +2,7 @@
 
 Gunbot 全世界共有近30个授权的发售与维护团队，我们是唯一提供中文服务的授权团队，你可以直接通过以下方式与我们沟通联系：
 
-* Telegram 社群 ([@rungunbot]())
+* Telegram 社群 ([@rungunbot](https://t.me/joinchat/G0YcqRG_3Q7H9gu_6mmA4g))
 
 <!-- 官方授权列表 [resellers](https://github.com/GuntharDeNiro/BTCT/wiki/Resellers)  -->
 
