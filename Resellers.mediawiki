@@ -1,0 +1,424 @@
+== Authorized resellers == 
+
+This is the only complete list of all authorized Gunbot resellers. You can apply to become a reseller by contacting [https://gunthy.org/forum/index.php?action=profile;u=1 Gunthar].
+
+
+This list is regularly updated. Do not trust any reseller who is not on this list!
+
+
+{| class="wikitable"
+! colspan="3" | 
+|-
+|-
+| colspan="3" |
+|-
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=2459 3KyNoX]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/eKyNoX @eKyNoX]
+| style="width: 50%" | 
+* '''Thread/Website:''' [http://noxen.net/ noxen.net]
+* '''Languages:''' French, English
+|-
+| colspan="3" |
+|-
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=1494 Aitor]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/AitorRuiz @AitorRuiz]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://gunbot.shop/ gunbot.shop] / [https://gunbot.es/ gunbot.es]
+* '''Languages:''' Español, English, Portuguese, Vietnamese
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''	
+<br>	
+	
+[https://gunthy.org/forum/index.php?action=profile;u=4580 altGear]	
+| style="width: 25%" | '''Telegram username'''	
+<br>	
+	
+	
+[https://telegram.me/altGear @altGear]	
+| style="width: 50%" | 	
+* '''Thread/Website:''' [https://gunbot.website gunbot.website] / [https://t.me/Gunbot_Support Telegram group] / [https://discord.gg/tj9KTBY Discord]	
+* '''Languages:''' English	
+|-	
+| colspan="3" |	
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=3543 alexchu]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/AlexChu85 @AlexChu85]
+| style="width: 50%" | 
+* '''Thread/Website:''' [http://gunbotstore.com gunbotstore.com] / [https://t.me/joinchat/GAC1wVJDFl16hjB2g5ttsw Telegram group]
+* '''Languages:''' English, Vietnamese
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=5263 BitcoinDatabaseNL]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/BitcoinDatabaseNL @BitcoinDatabaseNL]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://tradingbotshop.nl/ tradingbotshop.nl] / [https://t.me/GunbotNL Telegram group]
+* '''Languages:''' Dutch (Nederlands), English
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=61 CaptainCorporate]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/CaptainCorporate @CaptainCorporate]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://gunbotshop.io/ gunbotshop.io]
+* '''Languages:''' English, Turkish
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=4535 coinrebels]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/coinrebels @coinrebels]
+| style="width: 50%" | 
+* '''Thread/Website:''' [http://www.coinrebels.com/ coinrebels.com] / [http://www.gunbot.com/ gunbot.com] 
+* '''Languages:''' English
+|-
+| colspan="3" |
+|-
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=16 criptonauta]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/Criptonauta @Criptonauta]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://gunbot.com.br/ gunbot.com.br]
+* '''Languages:''' Portuguese, English, Spanish
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=5369 Cryptodailytrading]
+<br>
+[https://gunthy.org/forum/index.php?action=profile;u=1814 Fresh Money]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/Cryptodailytradingofficial @Cryptodaily<br>tradingofficial]
+| style="width: 50%" | 
+* '''Thread/Website:''' [http://www.cryptodailytrading.com/ cryptodailytrading.com] / [https://t.me/joinchat/FnlTuQ4EbyEo9f2ZFrjK1w Telegram group]
+* '''Languages:''' French, English, Dutch
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=171 cw]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/Cryptowally @Cryptowally]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://gunbotuniversity.com/ Gunbot University]
+* '''Languages:''' English
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=28 dddrgonzooo]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/dddrgonzooo @dddrgonzooo]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://www.cryptospork.com/ cryptospork.com]
+* '''Languages:''' English
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=5 dobcrypto]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/dobcrypto @dobcrypto]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://gunthy.org/forum/index.php/board,21.0.html Thread] / [http://www.youtube.com/dobcryptocurrency youtube.com/dobcryptocurrency]
+* '''Languages:''' Russian - native language, English
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=1659 Exquitas]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/exquitas @exquitas]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://www.crypto-tradingbot.com/ crypto-tradingbot.com]
+* '''Languages:''' English, French, German, Luxembourgish
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=2581 fuathan]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/fuathanOfficialGunBotSeller @fuathanOfficial<br>GunbotReseller]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://gunbotmasters.com/ gunbotmasters.com] / [https://bitcointalk.org/index.php?topic=2061250.0 Thread] / [https://www.youtube.com/channel/UCJJQOHaXVfqG28kNL_X0qpA Youtube]
+* '''Languages:''' English, Turkish
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=5594 gunbotkorea]
+
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/Korpride @Korpride]
+| style="width: 50%" | 
+* '''Thread/Website:''' [http://www.gunbot.us/ gunbot.us] 
+* '''Languages:''' English, Korean
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=1515 GuyTheGuy]
+
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/GuyTheGuy @GuyTheGuy]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://lunarcrypto.com/ lunarcrypto.com] / [http://gunbotters.com/  gunbotters.com] / [https://gunbot.market/ gunbot.market] / [https://gunthy.org/forum/index.php/topic,726.0.html Thread]
+* '''Languages:''' English, Spanish
+|-
+| colspan="3" |
+|-
+
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=2586 Krypto]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/KryptoGB @KryptoGB]
+| style="width: 50%" | 
+* '''Thread/Website:''' [http://bitcoingunbot.com/ bitcoingunbot.com] / [https://gunthy.org/forum/index.php/topic,2425.0.html Thread]
+* '''Languages:''' English
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=70 leeview]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/leeview @leeview]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://gunthy.org/forum/index.php/topic,656.0.html Thread] / [https://thecryptobot.com/ TheCryptoBot.com] / [https://gunbot.cc/ gunbot.cc]
+* '''Languages:''' English
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=5231 موزع معتمد بالوطن العربي]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/MafiaHackAttack @MafiaHackAttack]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://www.facebook.com/01224747749x Facebook]
+* '''Languages:''' اللغة العربية
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=1068 NarKotix]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/NarKotix @NarKotix]
+| style="width: 50%" | 
+* '''Thread/Website:''' [http://www.gunbotreseller.com/ gunbotreseller.com]
+* '''Languages:''' English
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=2046 nelsonmurciia]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/VCMen @VCMen]
+| style="width: 50%" | 
+* '''Thread/Website:''' [http://gunbot.trading/ gunbot.trading]
+* '''Languages:''' Español
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+N/A
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/highfive123 @highfive123 ]
+<br>
+[https://telegram.me/Szerdown @Szerdown ]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://therealcryptocowboys.com/ TheRealCryptoCowboys.com]
+* '''Languages:''' English
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+N/A
+
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/tradingbotpro @tradingbotpro]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://www.tradingbotpro.com/ tradingbotpro.com] 
+* '''Languages:''' English
+|-
+| colspan="3" |
+|-
+
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=259 pim]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/boekenbox @boekenbox] <br> [https://telegram.me/medeeiros @medeeiros] <br>(reseller duo)
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://www.awesome-gunbot.com/ awesome-gunbot.com]
+* '''Languages:''' English, German, Dutch
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=4014 TheRichMan ]
+<br>
+[https://gunthy.org/forum/index.php?action=profile;u=4193 duckman ]
+<br>
+[https://gunthy.org/forum/index.php?action=profile;u=5352 Dark_Nova  ]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/TheTimRichMan  @TheTimRichMan ]
+<br>
+[https://telegram.me/DuckmanG  @DuckmanG ]
+<br>
+[https://telegram.me/Nova_tec  @Nova_tec ]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://gunthy.org/forum/index.php/topic,2894.0.html Thread] / [https://www.invest-richmans.com/ invest-richmans.com] 
+* '''Languages:''' Russian, English
+|-
+| colspan="3" |
+|-
+
+| style="width: 25%" | '''Gunthy username'''
+<br>
+
+[https://gunthy.org/forum/index.php?action=profile;u=1757 x-online]
+| style="width: 25%" | '''Telegram username'''
+<br>
+
+[https://telegram.me/poytb @poytb]
+| style="width: 50%" | 
+* '''Thread/Website:''' [https://www.buygunbot.com/ buygunbot.com] / [https://www.youtube.com/playlist?list=PL55X42iNDvp2tNkr78aja2TIBAp2bHBtZ Youtube]
+* '''Languages:''' Thai, English
+|-
+| colspan="3" |
+|-
+
+
+
+|}
+
