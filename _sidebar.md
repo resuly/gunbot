@@ -3,8 +3,8 @@
 * **[首页](/)**
 
 * **如何购买**
-  <!-- - [价格方案](Purchasing-Plans) -->
-  - [购买方式](Purchasing-Gunbot)
+  - [价格方案](Purchasing-Plans)
+  <!-- - [购买方式](Purchasing-Gunbot) -->
   <!-- - [购买方式]() -->
 * **安装教程**
   - [快速入门](Quickstart)
@@ -17,7 +17,7 @@
   - [常见问题](Troubleshooting)
 * **Gunthy GUI**
   - [使用图形界面(Gunthy GUI)](Using-Gunthy-GUI)  
-  - [Example of using setups](Example-of-using-setups)  
+  - [配置示例](Example-of-using-setups)  
 * **配置**
   - [Configuring Gunbot](Configuring Gunbot) 
   - [Configuring older versions](Configuring older versions)
