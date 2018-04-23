@@ -19,9 +19,8 @@
   - [使用图形界面(Gunthy GUI)](Using-Gunthy-GUI)  
   - [配置示例](Example-of-using-setups)  
 * **配置**
-  - [Configuring Gunbot](Configuring Gunbot) 
-  - [Configuring older versions](Configuring older versions)
-  - [Advanced usage](Advanced usage)
+  - [配置 Gunbot](Configuring-Gunbot) 
+  - [进阶用法](Advanced-usage)
 * **交易市场**  
   - [支持的交易市场](Supported exchanges) ​
 * **交易策略**
